@@ -1,0 +1,11 @@
+.home__section {
+  display: flex;
+  padding: 30px;
+}
+
+* {
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}
